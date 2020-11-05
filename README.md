@@ -1,5 +1,5 @@
 <h3>Won joon Shin --@swj0704</h3>
-<h3>👋</h3> <h5>Hi, Welcome to my GitHub. I am software developer in the Android field. I love to share my knowledge about development.</h5>
+<h3>👋</h3>Hi, Welcome to my GitHub. I am software developer in the Android field. I love to share my knowledge about development.
 
 
 <h3>📑 My Languages</h3>
