@@ -1,5 +1,5 @@
-### Won-joon Shin --@swj0704
-###👋
+### Won joon Shin --@swj0704
+### 👋
 Hi, Welcome to my GitHub. I am software developer in the Android field. I love to share my knowledge about development.
 
 
