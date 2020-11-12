@@ -22,7 +22,7 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 ### ⭐ My GitHub Stats
   
 
-![swj0704's github stats](https://github-readme-stats.vercel.app/api?username=swj0704&show_icons=true&theme=radica)
+![swj0704's github stats](https://github-readme-stats.vercel.app/api?username=swj0704&show_icons=true&theme=radical)
 
 ### 🌱 My Contributions
 
