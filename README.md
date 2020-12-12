@@ -7,7 +7,6 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 
   - Kotlin (Intermediate)
   - Java (Intermediate)
-  - C (beginner)
   - JavaScript (beginner)
   - C# (beginner)
   - Python (beginner)
@@ -16,9 +15,6 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 
   - MVVM
   - RxJava
-  - DJangGo
-  - Flask
-  - Node.Js
 ### ⭐ My GitHub Stats
   
 
