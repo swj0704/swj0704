@@ -13,7 +13,7 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
   
 ### 📕 I'm currently Learning
 
-  - MVVM
+  - Android Clean Architectuer
   - RxJava
 ### ⭐ My GitHub Stats
   
