@@ -7,8 +7,6 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 
   - Kotlin (Intermediate)
   - Java (Intermediate)
-  - JavaScript (beginner)
-  - Python (beginner)
   
 ### 📕 I'm currently Learning
 
