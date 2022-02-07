@@ -7,11 +7,12 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 
   - Kotlin (Intermediate)
   - Java (Intermediate)
+  - RxJava (Biginner)
   
 ### 📕 I'm currently Learning
 
   - Android Clean Architectuer
-  - RxJava
+  - Coroutine
 ### ⭐ My GitHub Stats
   
 
