@@ -3,16 +3,17 @@
 Hi, Welcome to my GitHub. I am software developer in the Android field. I love to share my knowledge about development.
 
 
-### 📑 My Languages
+### 📑 My Stacks
 
   - Kotlin (Intermediate)
   - Java (Intermediate)
   - RxJava (Biginner)
+  - Coroutine (Biginner)
   
 ### 📕 I'm currently Learning
 
-  - Android Clean Architectuer
-  - Coroutine
+  - Android Clean Architecture
+  - jetpack compose
 ### ⭐ My GitHub Stats
   
 
