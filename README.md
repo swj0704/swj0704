@@ -5,15 +5,15 @@ Hi, Welcome to my GitHub. I am software developer in the Android field. I love t
 
 ### 📑 My Stacks
 
-  - Kotlin (Intermediate)
-  - Java (Intermediate)
-  - RxJava (Intermediate)
-  - Coroutine (Biginner)
+  - Kotlin
+  - Java
   
 ### 📕 I'm currently Learning
 
   - Android Clean Architecture
   - jetpack compose
+  - RxJava
+  - Coroutine+Flow
 ### ⭐ My GitHub Stats
   
 
